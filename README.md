@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @JossMilon, I valued inventors more than anyone since forever. 
+- That and Indiana Jones 🤠. 
+- Becoming a developer enables me to give subsctance to my ideas 💡. 
+- 🌱 I’m currently learning Javascript, and it looks like there's enough to do for a lifetime here, between front and back end, robots, security and so much more... 
+- I've been using FreeCodeCamp for a while now. And went through a bootcamp called Le Reacteur to give it a boost.
+- 💞️ I’m looking to collaborate on any project that can help me hone my skills, especially open source and especially for charities.
+- 📫 Reach out to me via email @josselin.milon@lilo.org
