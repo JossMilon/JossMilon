@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @JossMilon, I valued inventors more than anyone since forever. 
-- That and Indiana Jones 🤠. 
+- 👋 Hi, I’m @JossMilon, I valued inventors more than anyone since forever. And Indiana Jones 🤠 (but different story). 
 - Becoming a developer enables me to give subsctance to my ideas 💡. 
-- 🌱 I’m currently learning Javascript, and it looks like there's enough to do for a lifetime here, between front and back end, robots, security and so much more... 
-- I've been using FreeCodeCamp for a while now. And went through a bootcamp called Le Reacteur to give it a boost.
-- 💞️ I’m looking to collaborate on any project that can help me hone my skills, especially open source and especially for charities.
+- 🌱 I’m currently learning Javascript, thanks to FreeCodeCamp and a french coding bootcamp called "Le Reacteur" 🚀.
+- I'd like to mix my appentence for marketing with tech skills, thus moving to growth engineering.
+- 💞️ I’m looking to collaborate on any project that can help me hone my skills, ideally open source and / or for charities.
 - 📫 Reach out to me via email @josselin.milon@lilo.org
