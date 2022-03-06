@@ -4,3 +4,4 @@
 - I'd like to mix my appentence for marketing with tech skills, thus moving to growth engineering.
 - 💞️ I’m looking to collaborate on any project that can help me hone my skills, ideally open source and / or for charities.
 - 📫 Reach out to me via email @josselin.milon@lilo.org
+- You can also check my profile on Codexars - https://www.codewars.com/users/Gjloss
