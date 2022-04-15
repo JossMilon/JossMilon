@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JossMilon, I valued inventors more than anyone since forever. And Indiana Jones 🤠 (but different story). 
 - Becoming a developer enables me to give substance to my ideas 💡. 
-- 🌱 I’m currently learning Javascript, thanks to FreeCodeCamp and attended french coding bootcamp called "Le Reacteur" 🚀.
+- 🌱 I’m focusing on Javascript language and got into it thanks to (the amazing) FreeCodeCamp and a (super great) french coding bootcamp called "Le Reacteur" 🚀.
 - I'd like to mix my appentence for marketing with tech skills, thus moving to growth engineering.
 - 💞️ I’m looking to collaborate on any project that can help me hone my skills, ideally open source and / or for charities.
-- 📫 Reach out to me via email @josselin.milon@lilo.org
-- You can also check my profile on Codexars - https://www.codewars.com/users/Gjloss
+- 📫 Reach out to me via email @josselin.milon@lilo.org to work on common projects or come sparring on Codewars - https://www.codewars.com/users/Gjloss
